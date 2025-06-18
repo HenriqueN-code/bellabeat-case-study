@@ -63,3 +63,4 @@ O dataset utilizado é público, proveniente da [base de dados Fitbit no Kaggle]
 git clone https://github.com/seu-usuario/bellabeat-case-study.git
 
 
+
